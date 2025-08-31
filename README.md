@@ -6,7 +6,7 @@ This project showcases my skills, services, and latest work as a **Web Developer
 ---
 
 ## 📌 Live Demo
-👉 [Visit My Portfolio](https://your-portfolio-link.com) 
+👉 [Visit My Portfolio]( https://rogers-korir.github.io/MyPortfolio/) 
 
 ---
 
